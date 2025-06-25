@@ -1,0 +1,4 @@
+char str[] = "Hello, World!";
+if (str[0] == 'H') {
+    return;
+}

@@ -1,0 +1,23 @@
+for -> FOR
+( -> LEFTPAR
+int -> INT
+i -> IDENTIFIER
+= -> ASSIGN
+0 -> INT_LITERAL
+;i -> IDENTIFIER
+<= -> LESSTHANEQUAL
+5 -> INT_LITERAL
+;i -> IDENTIFIER
+++ -> INCREMENT
+) -> RIGHTPAR
+{ -> LEFTBRAC
+
+printf -> IDENTIFIER
+( -> LEFTPAR
+"Number: %d\n" -> STRING_LITERAL
+, -> COMMA
+i -> IDENTIFIER
+) -> RIGHTPAR
+;
+} -> RIGHTBRAC
+

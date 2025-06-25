@@ -1,0 +1,15 @@
+int -> INT
+a -> IDENTIFIER
+= -> ASSIGN
+10 -> INT_LITERAL
+;
+float -> FLOAT
+pi -> IDENTIFIER
+= -> ASSIGN
+3.14 -> FLOAT_LITERAL
+;
+char -> CHAR
+ch -> IDENTIFIER
+= -> ASSIGN
+'x' -> CHAR_LITERAL
+;

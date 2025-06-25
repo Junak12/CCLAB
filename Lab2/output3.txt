@@ -1,0 +1,18 @@
+int -> INT
+sum -> IDENTIFIER
+= -> ASSIGN
+0 -> INT_LITERAL
+;
+while -> IDENTIFIER
+( -> LEFTPAR
+sum -> IDENTIFIER
+!= -> ASSIGN
+100 -> INT_LITERAL
+) -> RIGHTPAR
+{ -> LEFTBRAC
+
+sum -> IDENTIFIER
+++ -> INCREMENT
+;
+} -> RIGHTBRAC
+

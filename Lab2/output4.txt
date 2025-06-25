@@ -1,0 +1,19 @@
+char -> CHAR
+str -> IDENTIFIER
+[]= -> ASSIGN
+"Hello, World!" -> STRING_LITERAL
+;
+if -> IDENTIFIER
+( -> LEFTPAR
+str -> IDENTIFIER
+[0 -> INT_LITERAL
+]= -> ASSIGN
+= -> ASSIGN
+'H' -> CHAR_LITERAL
+) -> RIGHTPAR
+{ -> LEFTBRAC
+
+return -> IDENTIFIER
+;
+} -> RIGHTBRAC
+
